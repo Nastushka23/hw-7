@@ -104,7 +104,7 @@ public class Main {
         int friday=1;
         int daysMonths=31;
         for(int i=friday; i<=daysMonths; i=i+7){
-            System.out.println("Сегодня пятница, "+i+"-е число. Необходимо подготовить отчет");
+            System.out.println("Сегодня пятница, "+i+"- е число. Необходимо подготовить отчет");
         }
     }
     private static void task8(){
